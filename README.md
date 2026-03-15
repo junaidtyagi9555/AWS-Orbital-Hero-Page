@@ -28,8 +28,6 @@
 
 ![AWS Orbital](https://github.com/junaidtyagi9555/AWS-Orbital-Hero-Page/blob/main/Screenshots/AWS-Orbital.jpg)
 
-> **Note:** If the screenshot doesn't load automatically, it means you need to add a screenshot to your repository. Follow the instructions below to add one!
-
 </div>
 
 ---
